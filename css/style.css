@@ -1,0 +1,40 @@
+.content {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+
+
+
+.design-mob {
+   position: absolute;
+   width: 100%;
+}
+.navbarScroll{
+    position: absolute;
+    width:100%;
+}
+.navbar-brand img{
+    /* width:105px; */
+}
+.navbar {
+    padding: 4% 6.666% 10px 6.5%;
+    vertical-align: middle;
+   
+}
+.navbar-toggler{
+    padding:0.6rem 0 0.25rem 0.75rem;
+    border: none;
+}
+
+#navbarSupportedContent {
+    text-align: center;
+    padding-top:47px;
+}
+
+.nav-item .nav-link{
+    padding:18px 0;
+    color:#fff;
+    font-size: 1.2rem;
+    font-weight: 700;
+}
